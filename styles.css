@@ -4863,11 +4863,6 @@ figcaption {
     grid-row-gap: 3rem;
   }
 
-  .w-webflow-badge {
-    display: None !important;
-    visibility: hidden !important;
-  }
-
   .benefits_heading,
   .audience_heading {
     grid-column-gap: 0.75rem;
